@@ -1,0 +1,17 @@
+.vscode/*
+**/.DS_Store
+**/.ipynb_checkpoints
+**/__pycache__
+
+# may be cleaned
+**/*.p
+**/*.pkl
+**/*.png
+# **/*.pt
+**/record*.txt
+src/experiments/*
+**/*.zip
+data/annotations/*
+data/videos/*
+**/*.mov
+**/events*
