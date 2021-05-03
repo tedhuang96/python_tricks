@@ -1,4 +1,4 @@
-# sys_add_path
+# sys_add_path (will be fixed)
 This is a trick to show how to use sys.path.append() to help python files in different subfolders to import each other.
 
 ## Run the code
